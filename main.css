@@ -1,0 +1,50 @@
+body {
+    background-color: #fff;
+}
+
+.navigation {
+    color: grey;
+    font-size: 20px ;
+    font-weight: bold;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-transform: uppercase;
+    background-color: #f2f2f2;
+    border-bottom: 2px solid #999999;
+
+}
+
+.navigation li {
+    display: inline;
+    padding:14px 10px;
+    
+}
+    
+.main {
+    height: 900px;
+    background-image:url('http://www.pptbackgrounds.net/uploads/ballet--dance-backgrounds-wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-padding: 10px;
+    padding: 20px;
+}
+
+.main h1 {
+    color: #000000;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Hevletica', sans-serif;
+    padding: 10px;
+    border: 5px solid #fff;
+    border-padding: 10px;
+    text-transform: uppercase;
+  
+}
+.main h3 {
+    font-size: 20px;
+}
+
+.main p {
+    color: #2F383C;
+    font-size: 20px;
+}
